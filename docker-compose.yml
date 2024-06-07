@@ -1,0 +1,8 @@
+services:
+  doom:
+    container_name: doom
+    image: ghcr.io/sudo88com/doom:latest
+    build:
+      context: .
+    ports:
+      - "8000:8000"
