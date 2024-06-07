@@ -38,3 +38,7 @@ docker compose up -d
 ```
 
 2. Enjoy the classic Doom gameplay through the DOSBox emulator.
+
+# License
+
+This project is licensed under the [MIT License](/LICENSE). See the LICENSE file for details.
