@@ -1,4 +1,4 @@
-# sudo88com/doom
+# dosbox-doom
 
 This repository contains the configuration to run the classic game **Doom** using **DOSBox** within a **Docker** container. This setup provides a consistent environment for playing Doom across different systems.
 
